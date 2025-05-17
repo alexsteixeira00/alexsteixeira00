@@ -13,6 +13,15 @@ Me chamo Alexsander Teixeira sou Programador Front End atualmente estou estudand
 
 <a href="https://www.linkedin.com/in/Alexsteixeira180993?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1VhbHIrVRGilVUvqGKYJ4Q%3D%3D"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
+
+
+
+
+
 
 
 
