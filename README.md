@@ -26,13 +26,13 @@ languages and tools:
 <img src="https://pic.pngsucai.com/00/81/27/7915c28e2e57ea88.webp" width="22px" />
 <img src="https://avatars.githubusercontent.com/u/95022804?s=280&v=4" width="26px" />
 
+[![Alexs Teixeira stats](https://github-readme-stats.vercel.app/api?username=alexsteixeira00)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsteixeira00&sh_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteixeira00)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
+![](https://komarev.com/ghpvc/?username=alexsteixeira00-github-username)
 
 
 
