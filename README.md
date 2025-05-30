@@ -1,6 +1,6 @@
 ## Olá ! 👋  :pencil2: 
 
-Me chamo Alexsander Teixeira sou Programador Front End atualmente estou estudando e desenvolvendo projetos com:
+Me chamo Alexsander Teixeira sou Programador Front End atualmente estou estudando pela DevClub e desenvolvendo projetos com:
 
 <p align="center" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
